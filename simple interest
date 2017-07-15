@@ -1,0 +1,5 @@
+p=raw_input()
+r=raw_input()
+t=raw_input()
+I=int(p)*int(r)*int(t)/100
+print(I)

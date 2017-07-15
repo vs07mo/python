@@ -1,0 +1,5 @@
+a=raw_input()
+b=raw_input()
+c=raw_input()
+avg=(float(a)+float(b)+float(c))/3
+print(avg)
